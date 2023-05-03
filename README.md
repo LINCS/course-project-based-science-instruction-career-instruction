@@ -6,7 +6,8 @@ Audience: Those that will benefit the most from these courses are adult educatio
 
 Commitment: This course will take approximately 2.5 hours to complete. You must complete all units and assessments to earn a certificate.
 
-## **Course Objectives**: By the end of the course, participants will be able to:
+## **Course Objectives:**
+By the end of the course, participants will be able to:
 
 Better understand Project-Based Learning (PBL), including identifying characteristics of effective PBL and benefits of it in adult education;
 Use online resources to guide adult learners in exploring careers in the five major STEM subgroups and identify ways that STEM workers use science in their careers; and
